@@ -12,6 +12,9 @@
   },
   "author": "Ricardo Tomasi <ricardobeat@gmail.com>",
   "license": "MIT",
+  "dependencies": {
+    "emmy.js": "^0.0.2"
+  },
   "devDependencies": {
     "coffee-script": "^1.8.0",
     "mocha": "^2.0.1",
